@@ -1,9 +1,9 @@
 git 업로드 테스트 샘플 파일을 작성합니다.
 git commit 을 거쳐 git push 합니다.
 최초 commit / push 이후 현재 라인을 추가합니다.
-<<<<<<< HEAD
+
+gittest_clone에서 clone 후 현재 라인을 추가(파일수정)-add-commit-push합니다.
+
 (다른 조원이 클론하여 파일 수정후) 현재 라인을 추가합니다.
 
-=======
-gittest_clone에서 clone 후 현재 라인을 추가(파일수정)-add-commit-push합니다.
->>>>>>> 69be207a54e66ae153f2fa93d8d0c89a59567f20
+conflict 정리했습니다.
